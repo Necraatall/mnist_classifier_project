@@ -1,0 +1,7 @@
+2024-06-16 13:41:21,616 - INFO - Program started
+2024-06-16 13:41:21,616 - INFO - CPU usage: 20.8%
+2024-06-16 13:41:21,616 - INFO - RAM usage: 59.6%
+2024-06-16 13:41:21,616 - INFO - Available RAM: 12902.515625 MB
+2024-06-16 13:41:21,616 - INFO - Loading and preprocessing data...
+2024-06-16 13:41:27,416 - INFO - Data loaded and preprocessed in 5.80 seconds
+2024-06-16 13:41:27,416 - INFO - Training model...
